@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm a full time student at WPI studying Data Science. I'll be working on different ML projects. 
+
 <!--
 **Bashir1999/Bashir1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
